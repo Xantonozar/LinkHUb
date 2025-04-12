@@ -22,14 +22,14 @@ export default function Footer() {
           
           <div>
             <h3 className="text-xl font-bold mb-4">Contact</h3>
-            <p className="text-white/80 mb-2">Civil Engineering Department</p>
-            <p className="text-white/80 mb-2">Email: civil.engineering@university.edu</p>
+            <p className="text-white/80 mb-2">Civil Engineering Batch 52</p>
+            <p className="text-white/80 mb-2">Email: *********@*****.***</p>
             <p className="text-white/80">Phone: +123 456 7890</p>
           </div>
         </div>
         
         <div className="border-t border-white/20 mt-8 pt-8 text-center text-white/60">
-          <p>&copy; {new Date().getFullYear()} Civil Engineering Department. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Civil Engineering Batch 52. All rights reserved.</p>
         </div>
       </div>
     </footer>
