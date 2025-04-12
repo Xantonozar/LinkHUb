@@ -1,4 +1,3 @@
-Below is a complete README.md file tailored for the Civil Engineering Resource Hub project. This README follows the style and structure of the LinkHUb repository to provide context, installation instructions, project description, and usage details for both the backend and frontend of this MERN stack application.
 
 # Civil Engineering Resource Hub
 
