@@ -117,7 +117,7 @@ export default function ContactSection() {
                 <div className="text-center">
                   <button
                     type="submit"
-                    disabled={isSubmitting}
+                    disabled={true}
                     className="cta-button bg-accent hover:bg-accent/90 text-white font-bold py-3 px-8 rounded-full inline-flex items-center transition-all disabled:opacity-70"
                   >
                     {isSubmitting ? (
