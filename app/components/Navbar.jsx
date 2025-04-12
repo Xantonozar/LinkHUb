@@ -242,7 +242,7 @@ export default function Navbar() {
         {/* Mobile menu button */}
         <div className="md:hidden">
           <button 
-            onClick={toggleMobileMenu}
+           
             className="text-white focus:outline-none z-50 relative"
             aria-label="Toggle mobile menu"
           >
