@@ -23,8 +23,7 @@ const semesterData = {
     icon: '📚',
     description: 'Core fundamental studies in engineering principles',
     resources: [
-      { id: 1, title: 'Course Materials', type: 'Lecture Notes', url: 'https://drive.google.com/file/example4' },
-      { id: 2, title: 'Past Papers', type: 'Exam Prep', url: 'https://drive.google.com/file/example5' },
+    
     ]
   },
   '2-1': {
@@ -32,8 +31,7 @@ const semesterData = {
     icon: '📐',
     description: 'Intermediate engineering and specialized topics',
     resources: [
-      { id: 1, title: 'Lecture Notes', type: 'Course Materials', url: 'https://drive.google.com/file/example6' },
-      { id: 2, title: 'Project Guidelines', type: 'Assignments', url: 'https://drive.google.com/file/example7' },
+      
     ]
   },
   '2-2': {
@@ -41,8 +39,7 @@ const semesterData = {
     icon: '✏️',
     description: 'Advanced theoretical concepts and applications',
     resources: [
-      { id: 1, title: 'Tutorial Slides', type: 'Course Materials', url: 'https://drive.google.com/file/example8' },
-      { id: 2, title: 'Reference Materials', type: 'Supplementary', url: 'https://drive.google.com/file/example9' },
+     
     ]
   },
   '3-1': {
@@ -50,8 +47,7 @@ const semesterData = {
     icon: '🧮',
     description: 'Specialized civil engineering disciplines',
     resources: [
-      { id: 1, title: 'Lab Manuals', type: 'Practical', url: 'https://drive.google.com/file/example10' },
-      { id: 2, title: 'Design Assignments', type: 'Coursework', url: 'https://drive.google.com/file/example11' },
+  
     ]
   },
   '3-2': {
@@ -59,8 +55,7 @@ const semesterData = {
     icon: '📏',
     description: 'Applied engineering and project planning',
     resources: [
-      { id: 1, title: 'Field Reports', type: 'Practical', url: 'https://drive.google.com/file/example12' },
-      { id: 2, title: 'Study Guides', type: 'Exam Prep', url: 'https://drive.google.com/file/example13' },
+      
     ]
   },
   '4-1': {
@@ -68,8 +63,7 @@ const semesterData = {
     icon: '🔧',
     description: 'Advanced design and specialized applications',
     resources: [
-      { id: 1, title: 'Research Papers', type: 'Reference', url: 'https://drive.google.com/file/example14' },
-      { id: 2, title: 'Senior Design Resources', type: 'Project', url: 'https://drive.google.com/file/example15' },
+     
     ]
   },
   '4-2': {
@@ -77,8 +71,7 @@ const semesterData = {
     icon: '🏗️',
     description: 'Capstone projects and professional preparation',
     resources: [
-      { id: 1, title: 'Capstone Materials', type: 'Project', url: 'https://drive.google.com/file/example16' },
-      { id: 2, title: 'Career Resources', type: 'Professional', url: 'https://drive.google.com/file/example17' },
+     
     ]
   },
 };
