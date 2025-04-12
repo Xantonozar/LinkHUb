@@ -92,7 +92,7 @@ const typeIcons = {
   'Project': '🏗️',
   'Professional': '👔',
   'Reference': '📖',
-  'Apllication' : '📱'
+  'Application' : '📱'
 };
 
 export default function SemesterPage({ params }) {
