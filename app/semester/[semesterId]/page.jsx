@@ -334,8 +334,7 @@ export default function SemesterPage({ params }) {
                       : 'bg-gray-800/70 text-white/80 hover:bg-gray-700 hover:text-white shadow-sm hover:shadow-md'
                   }`}
                 >
-                  /*{sem.name.split(' ').pop()}*/
-'${id}'
+                  {sem.name.split(' ').pop()+" "}{id}
                 </Link>
               ))}
             </div>
