@@ -12,12 +12,13 @@ const semesterData = {
     icon: '🎓',
     description: 'Foundation courses for civil engineering students',
     resources: [
-      { id: 1, title: 'Fall \'23', type: 'Course Materials', url: 'https://drive.google.com/drive/mobile/folders/1XI7m2t2nSgwSU8UCOnW0xFQXojOmrM6-' },
-      { id: 2, title: 'Spring \'24', type: 'Lecture Notes', url: 'https://drive.google.com/drive/folders/1U40jaJW-J5ZKptSnMhIU53dTYUfbCOg8' },
-      { id: 3, title: 'Spring \'23', type: 'Reference Materials', url: 'https://drive.google.com/drive/mobile/folders/12Kx8W9dzdtW2dB7sSRgujaum69buaKk4?fbclid=IwZXh0bgNhZW0CMTEAAR5i05m3VQMDR9iPo3emvOKUnLL7Jt-gMjFFbAhP74bgo90Zxzm7dlZ-y0JX2Q_aem_V5kZDdnUPMhYkt_9wFGVxg' },
-      { id: 4, title: 'Zaki Bhai', type: 'Reference Materials', url: 'https://drive.google.com/drive/u/0/mobile/folders/1JgS4K0UtlgujfiJx5c9IAMgmLyfMUiek?fbclid=IwZXh0bgNhZW0CMTEAAR5i05m3VQMDR9iPo3emvOKUnLL7Jt-gMjFFbAhP74bgo90Zxzm7dlZ-y0JX2Q_aem_V5kZDdnUPMhYkt_9wFGVxg&sort=13&direction=a' },
+      { id: 1, title: 'Question Bank', type: 'Previous Questions', url: 'https://drive.google.com/drive/folders/1488FKtpINmBCYZrBG6EXkmDAKmJfPGZO' },
+      { id: 2, title: 'Fall \'23', type: 'Course Materials', url: 'https://drive.google.com/drive/mobile/folders/1XI7m2t2nSgwSU8UCOnW0xFQXojOmrM6-' },
+      { id: 3, title: 'Spring \'24', type: 'Lecture Notes', url: 'https://drive.google.com/drive/folders/1U40jaJW-J5ZKptSnMhIU53dTYUfbCOg8' },
+      { id: 4, title: 'Spring \'23', type: 'Reference Materials', url: 'https://drive.google.com/drive/mobile/folders/12Kx8W9dzdtW2dB7sSRgujaum69buaKk4?fbclid=IwZXh0bgNhZW0CMTEAAR5i05m3VQMDR9iPo3emvOKUnLL7Jt-gMjFFbAhP74bgo90Zxzm7dlZ-y0JX2Q_aem_V5kZDdnUPMhYkt_9wFGVxg' },
+      { id: 5, title: 'Zaki Bhai', type: 'Reference Materials', url: 'https://drive.google.com/drive/u/0/mobile/folders/1JgS4K0UtlgujfiJx5c9IAMgmLyfMUiek?fbclid=IwZXh0bgNhZW0CMTEAAR5i05m3VQMDR9iPo3emvOKUnLL7Jt-gMjFFbAhP74bgo90Zxzm7dlZ-y0JX2Q_aem_V5kZDdnUPMhYkt_9wFGVxg&sort=13&direction=a' },
 {
-id: 5, title: 'Syllabus Tracker', type: 'Application', url:'https://adib3111.github.io/tracker-civil' },
+id: 6, title: 'Syllabus Tracker', type: 'Application', url:'https://adib3111.github.io/tracker-civil' },
     ]
   },
   '1-2': {
@@ -82,7 +83,7 @@ id: 5, title: 'Syllabus Tracker', type: 'Application', url:'https://adib3111.git
 const typeIcons = {
   'Course Materials': '📘',
   'Lecture Notes': '📝',
-  'Past Papers': '📄',
+  'Previous Questions': '📄',
   'Reference Materials': '📚',
   'Exam Prep': '✏️',
   'Assignments': '📋',
