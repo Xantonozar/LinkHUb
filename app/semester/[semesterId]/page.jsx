@@ -26,7 +26,7 @@ id: 6, title: 'Syllabus Tracker', type: 'Application', url:'https://adib3111.git
     icon: '📚',
     description: 'Core fundamental studies in engineering principles',
     resources: [
-    
+    { id: 1, title: 'Pratik Vai er Note', type: 'Course Materials', url: 'https://drive.google.com/drive/folders/16r6aY18mUBpXSzLFcTkyXHezDhDuPyQK?usp=drive_link' },
     ]
   },
   '2-1': {
