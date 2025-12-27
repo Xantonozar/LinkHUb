@@ -35,7 +35,8 @@ id: 6, title: 'Syllabus Tracker', type: 'Application', url:'https://adib3111.git
     icon: '📐',
     description: 'Intermediate engineering and specialized topics',
     resources: [
-      
+      { id: 1, title: 'Pratik Vai er Note', type: 'Course Materials', url: 'https://drive.google.com/drive/folders/16r6aY18mUBpXSzLFcTkyXHezDhDuPyQK?usp=drive_link' },
+{ id: 2, title: 'Nibir vai er note', type: 'Course Materials', url: 'https://drive.google.com/drive/folders/1vdzP0FYbJfg4XFL-T1eIsBHJcV55ey8T' },
     ]
   },
   '2-2': {
