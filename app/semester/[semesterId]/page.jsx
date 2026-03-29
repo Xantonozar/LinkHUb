@@ -37,6 +37,7 @@ id: 6, title: 'Syllabus Tracker', type: 'Application', url:'https://adib3111.git
     resources: [
       { id: 1, title: 'Pratik Vai er Note', type: 'Course Materials', url: 'https://drive.google.com/drive/folders/1vgxXkSWo-2kIKjd7-10zQFvir3U7R45A' },
 { id: 2, title: 'Nibir vai er note', type: 'Course Materials', url: 'https://drive.google.com/drive/folders/1x98wby2INqGvL65oWplhAhMv5on-4xnY' },
+{ id: 3, title: 'Batch 52', type: 'Course Materials', url: 'https://drive.google.com/drive/folders/198ePjBfut4sRfidMWuFpChP9zTr0Sobt' },
     ]
   },
   '2-2': {
