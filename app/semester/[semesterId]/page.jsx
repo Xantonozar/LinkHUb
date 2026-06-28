@@ -45,7 +45,8 @@ id: 6, title: 'Syllabus Tracker', type: 'Application', url:'https://adib3111.git
     icon: '✏️',
     description: 'Advanced theoretical concepts and applications',
     resources: [
-     
+      { id: 1, title: 'Nibir vai', type: 'Course Materials', url: 'https://drive.google.com/drive/folders/1PUbBpj8YYVFy-0ENf-KQAxG5nWMvhiBx' },
+      { id: 2, title: 'Batch 52 (C)', type: 'Course Materials', url: 'https://drive.google.com/drive/folders/1G2GWCXse-Mzfl7vLt1oQk1TkcqZa303V' },
     ]
   },
   '3-1': {
